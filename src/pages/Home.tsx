@@ -264,7 +264,7 @@ export default function Home() {
                 Start Monitoring Crowds Today
               </h2>
               <p className="text-slate-400 mb-8">
-                Join CrowdSense and never wait in a long queue again.
+                Join EscapeQueue and never wait in a long queue again.
               </p>
               <Link
                 to="/register"
