@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               <div className="w-8 h-8 rounded-lg bg-teal-500 flex items-center justify-center">
                 <Activity className="w-4 h-4 text-white" />
               </div>
-              <span className="font-heading text-lg font-bold text-white">CrowdSense</span>
+              <span className="font-heading text-lg font-bold text-white">EscapeQueue</span>
             </Link>
             <p className="text-sm text-slate-400 leading-relaxed">
               Real-time crowd monitoring and AI-powered predictions to help you plan smarter visits.
