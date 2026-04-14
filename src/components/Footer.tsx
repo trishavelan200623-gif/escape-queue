@@ -93,7 +93,7 @@ const Footer: React.FC = () => {
       <div className="border-t border-slate-800">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-slate-500">
-            © 2026 CrowdSense. All rights reserved.
+            © 2026 EscapeQueue. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             <a href="#" className="text-xs text-slate-500 hover:text-slate-400 transition-colors duration-200">Privacy</a>
