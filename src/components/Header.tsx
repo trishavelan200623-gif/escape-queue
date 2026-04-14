@@ -51,7 +51,7 @@ const Header: React.FC = () => {
               <Activity className="w-4 h-4 text-white" />
             </div>
             <span className="font-heading text-lg font-bold text-white tracking-tight">
-              CrowdSense
+              EscapeQueue
             </span>
           </Link>
 
